@@ -1,4 +1,4 @@
-# Thank you for visiting this repository 
+# About this repository
 
 Chujun Zhao
 Columbia University
